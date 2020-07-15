@@ -1,0 +1,12 @@
+
+
+<!--
+Copyright (c) 2020 Yapan Balaban (https://github.com/epbalaban01)
+
+
+Bu yazýlýmýn ve iliþkili dokümantasyon dosyalarýnýn ("Yazýlým") bir kopyasýný alan herhangi bir kiþiye, kullanma, kopyalama, deðiþtirme, birleþtirme haklarý da dahil ancak bunlarla sýnýrlý olmamak üzere, herhangi bir sýnýrlama olmaksýzýn, Yazýlým ile ilgili olarak eriþim izni verilir. , Yazýlýmýn kopyalarýný yayýnlamak, yayýnlamak, lisanslamak ve / veya satmak ve Yazýlýmýn saðlandýðý kiþilere aþaðýdaki koþullara tabi olarak izin vermek için:
+
+Yukarýdaki telif hakký bildirimi ve bu izin bildirimi, Yazýlýmýn tüm kopyalarýna veya önemli bölümlerine dahil edilecektir.
+
+YAZILIM, HERHANGÝ BÝR TÜR, AÇIK VEYA ZIMNÝ GARANTÝ OLMADAN "OLDUÐU GÝBÝ" OLMAKTADIR, AÞAÐIDAKÝ BÝR AMAÇ VE OLMAYAN GARANTÝLERLE SINIRLI OLMAYAN SINIRLI OLMAMAKTADIR. HÝÇBÝR DURUMDA YAZARLAR VE TELÝF HAKKI TUTUCULARI DE SÖZLEÞMESÝ, LÝMANI VEYA DÝÐER HUSUSLARDAN, SÖZLEÞMEDE, DIÞINDA VEYA BAÐLANTIYA SAHÝP OLAN HERHANGÝ BÝR ÝDDÝA, HASAR VEYA DÝÐER SORUMLULUK ÝÇÝN SORUMLU OLMAYACAKTIR.
+-->
