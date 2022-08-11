@@ -1,7 +1,7 @@
 # Son Koloni Oyunu
 Last Colony, hem tek oyunculu modu hem de tamamen multiplayerli HTML5 ve JavaScript'te oluşturulan çok oyunculu mod içeren bir RTS oyunudur.
 
-[Son Koloni Oyunun Demosunu Deneyin](http://www.adityaravishankar.com/projects/games/lastcolony/)
+[Son Koloni Oyunun Demosunu Deneyin](https://epbalaban01.github.io/Last-Colony-Master/)
 
 Tek oyunculu kampanya, binalar, araçlar, uçaklar ile birlikte bir senaryo içeren olayların anlatıldığı aşırı kemerli bir hikayeyi içeriyor.
 
