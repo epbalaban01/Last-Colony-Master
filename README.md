@@ -7,6 +7,12 @@ Tek oyunculu kampanya, binalar, araçlar, uçaklar ile birlikte bir senaryo içe
 
 İki oyunculu çok oyunculu, gerçek zamanlı oyuna izin vermek için WebSocket API ile Node.js'yi kullanması içerir.
 
+<b>Ekran Görüntüleri</b>
+|   |
+|---|
+| ![epbalaban01 github io_Last-Colony-Master_](https://user-images.githubusercontent.com/42430554/184126885-b2982fdf-0e60-41e4-b535-44b2f19534f7.png) | 
+
+
 ## Multiplayer Sunucu Kurulumu
 1. [Düğüm] (http://nodejs.org/) ve [npm] (https://npmjs.org/) yazılımını kurun
 2. Komutu kullanarak WebSocket-Node'yi kurun: `npm websocket install`
